@@ -8,6 +8,7 @@ My awesome list containing everything that's just simply awesome
 - [SoundSwitch](https://soundswitch.aaflalo.me/)
 - [Keyboard Chattering Fix](https://www.softpedia.com/get/System/System-Miscellaneous/Keyboard-Chattering-Fix.shtml)
 - [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts)
+- [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO)
 - [Unlocker](https://filehippo.com/download_unlocker/)
 - [StartAllBack](https://www.startallback.com/)
 - [MKVToolNix](https://mkvtoolnix.download/downloads.html)
@@ -28,6 +29,8 @@ My awesome list containing everything that's just simply awesome
 - [Bluecord](https://bluesmods.com/bluecord/)
 - [Revo Uninstaller](https://www.revouninstaller.com/)
 - [Hitman Pro](https://www.hitmanpro.com/en-us)
+- [NTLite](https://www.ntlite.com/download/)
+- 
 
 # Extensions
 - [Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
