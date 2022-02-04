@@ -32,6 +32,7 @@ My awesome list containing everything that's just simply awesome
 - [NTLite](https://www.ntlite.com/download/)
 - [PESTUDIO](https://www.winitor.com/)
 - [x64dbg](https://x64dbg.com/)
+- [HxD](https://mh-nexus.de/en/hxd/)
 
 # Extensions
 - [Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
