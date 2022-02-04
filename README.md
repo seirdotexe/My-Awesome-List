@@ -30,7 +30,8 @@ My awesome list containing everything that's just simply awesome
 - [Revo Uninstaller](https://www.revouninstaller.com/)
 - [Hitman Pro](https://www.hitmanpro.com/en-us)
 - [NTLite](https://www.ntlite.com/download/)
-- 
+- [PESTUDIO](https://www.winitor.com/)
+- [x64dbg](https://x64dbg.com/)
 
 # Extensions
 - [Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
