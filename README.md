@@ -14,7 +14,6 @@ My awesome list containing everything that's just simply awesome
 - [MKVToolNix](https://mkvtoolnix.download/downloads.html)
 - [FAT32->NTFS & NTFS->FAT32](https://www.diskpart.com/AOMEI-n2f.html)
 - [KeePass](https://keepass.info/)
-- [KeePassDX](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free)
 - [Memtest](https://www.memtest86.com/)
 - [HWINFO](https://www.hwinfo.com/)
 - [Peazip](https://peazip.github.io/)
@@ -23,10 +22,7 @@ My awesome list containing everything that's just simply awesome
 - [ILSpy](https://github.com/icsharpcode/ILSpy)
 - [Exeinfo PE](http://exeinfo.booomhost.com/)
 - [Ventoy](https://www.ventoy.net/en/index.html)
-- [Octodroid](https://f-droid.org/en/packages/com.gh4a/)
-- [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey)
 - [BetterDiscord](https://betterdiscord.app/)
-- [Bluecord](https://bluesmods.com/bluecord/)
 - [Revo Uninstaller](https://www.revouninstaller.com/)
 - [Hitman Pro](https://www.hitmanpro.com/en-us)
 - [NTLite](https://www.ntlite.com/download/)
@@ -34,6 +30,14 @@ My awesome list containing everything that's just simply awesome
 - [x64dbg](https://x64dbg.com/)
 - [HxD](https://mh-nexus.de/en/hxd/)
 - [Virtual Serial Port Driver](https://www.eltima.com/products/vspdxp/)
+
+# Apps
+- [KeePassDX](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free)
+- [Joey For Reddit](https://play.google.com/store/apps/details?id=o.o.joey)
+- [Bluecord](https://bluesmods.com/bluecord/)
+- [Octodroid](https://f-droid.org/en/packages/com.gh4a/)
+- [QuickEdit](https://play.google.com/store/apps/details?id=com.rhmsoft.edit)
+- [AdGuard](https://adguard.com/en/adguard-android/overview.html)
 
 # Extensions
 - [Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
