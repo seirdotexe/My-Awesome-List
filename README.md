@@ -33,6 +33,7 @@ My awesome list containing everything that's just simply awesome
 - [PESTUDIO](https://www.winitor.com/)
 - [x64dbg](https://x64dbg.com/)
 - [HxD](https://mh-nexus.de/en/hxd/)
+- [Virtual Serial Port Driver](https://www.eltima.com/products/vspdxp/)
 
 # Extensions
 - [Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
