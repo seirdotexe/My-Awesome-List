@@ -30,6 +30,7 @@ My awesome list containing everything that's just simply awesome
 - [x64dbg](https://x64dbg.com/)
 - [HxD](https://mh-nexus.de/en/hxd/)
 - [Virtual Serial Port Driver](https://www.eltima.com/products/vspdxp/)
+- [qBittorrent](https://www.qbittorrent.org/)
 
 # Apps
 - [KeePassDX](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free)
