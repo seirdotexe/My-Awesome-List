@@ -32,6 +32,7 @@ My awesome list containing everything that's just simply awesome
 - [Virtual Serial Port Driver](https://www.eltima.com/products/vspdxp/)
 - [qBittorrent](https://www.qbittorrent.org/)
 - [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)
+- [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
 
 # Apps
 - [KeePassDX](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free)
