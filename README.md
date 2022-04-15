@@ -5,6 +5,7 @@ My awesome list containing everything that's just simply awesome
 # Software
 - [wushowhide](https://www.majorgeeks.com/mg/getmirror/wushowhide,1.html)
 - [HIFI cable](http://vincent.burel.free.fr/VirtualAudioApps/HiFiCableAsioBridgeSetup_v1007.zip)
+- [VAC - Virtual Audio Cable](https://vac.muzychenko.net/en/)
 - [SoundSwitch](https://soundswitch.aaflalo.me/)
 - [Keyboard Chattering Fix](https://www.softpedia.com/get/System/System-Miscellaneous/Keyboard-Chattering-Fix.shtml)
 - [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts)
