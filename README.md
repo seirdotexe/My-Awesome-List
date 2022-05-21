@@ -1,6 +1,6 @@
 # My Awesome List
 
-My awesome list containing everything that's just simply awesome
+My awesome list containing everything that's just simply awesome!
 
 # Software
 - [wushowhide](https://www.majorgeeks.com/mg/getmirror/wushowhide,1.html)
@@ -71,3 +71,49 @@ My awesome list containing everything that's just simply awesome
 - CS.RIN.RU
 - AppNee
 - SadeemPC
+
+# Ukrainian Twitter handlers
+* [armyinformcomua](https://twitter.com/armyinformcomua)
+  * Official account of inform agency of the Ministry of Defence of Ukraine ArmyInform.
+* [antiputler_news](https://twitter.com/antiputler_news)
+  * For your freedom and ours! If you find my work useful, you can support me on PayPal (farrukhakimov23@gmail.com)
+* [prm_ua](https://twitter.com/prm_ua)
+  * The only Ukrainian TV channel that works in infotainment format. With us you will be aware of the main events of Ukraine and the world.
+* [ua_industrial](https://twitter.com/ua_industrial)
+  * My name is Pavlo. Here the whole world reads about the war in Ukraine
+* [squad3o3](https://twitter.com/squad3o3)
+  * #OpRussia, creator of [1920.in](https://1920.in/)
+* [666_mancer](https://twitter.com/666_mancer)
+  * Proterrorist-minded user (c) Censor.NET I am collecting information about movements, bases, deaths etc.
+* [xxNB65](https://twitter.com/xxNB65)
+  * #OpRussia, hacks a ton of Russian state funded organizations.
+* [KyivIndependent](https://twitter.com/KyivIndependent)
+  * Independent English-language journalism in Ukraine.
+* [ng_ukraine](https://twitter.com/ng_ukraine)
+  * Ukraine government organization
+* [YourAnonNews](https://twitter.com/YourAnonNews)
+  * #OpRussia, brings tech news about Ukraine developments, but also on other world events.
+* [ZelenskyyUa](https://twitter.com/ZelenskyyUa)
+  * Ukraine government official, President of Ukraine.
+* [ELINTNews](https://twitter.com/ELINTNews)
+  * Independent in-depth coverage & analysis of current geopolitical & geostrategic developments. Run by a one-man team in England.
+* [mil_in_ua](https://twitter.com/mil_in_ua)
+  * Honestly about the army, war and defense since 2009.
+* [Ukraine_AF](https://twitter.com/Ukraine_AF)
+  * All about Ukrainian aviation. Not an official page.
+* [DefenceU](https://twitter.com/DefenceU)
+  * Ukraine government organization, Official page of the Ministry of Defense of Ukraine.
+* [Ukraine](https://twitter.com/Ukraine)
+  * Ukraine government organization, the official Twitter account of Ukraine.
+* [UkrArmyBlog](https://twitter.com/UkrArmyBlog)
+  * Unofficial page of support for the Armed Forces of Ukraine.
+* [DPSU_ua](https://twitter.com/DPSU_ua)
+  * Official page of the State Border Guard Service of Ukraine.
+* [GirkinGirkin](https://twitter.com/GirkinGirkin)
+  * Provides first level information about the war in Ukraine.
+* [Liveuamap](https://twitter.com/Liveuamap)
+  * The official Twitter account of [Liveuamap](https://liveuamap.com/)
+* [GeneralStaffUA](https://twitter.com/GeneralStaffUA)
+  * Ukraine government organization, the official Twitter account of the General Staff of the Armed Forces of Ukraine.
+* [KpsZSU](https://twitter.com/KpsZSU)
+  * Official account of Air Force of the Armed Forces of Ukraine.
