@@ -63,6 +63,7 @@ My awesome list containing everything that's just simply awesome!
 - [Down checker](https://downforeveryoneorjustme.com/)
 - [ASCII utils](https://www.asciitohex.com/)
 - [VirusTotal](https://www.virustotal.com/)
+- [ChangeWindows](https://changewindows.org/timeline)
 
 # Actually legit pirate websites
 - 1337x
