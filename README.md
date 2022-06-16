@@ -117,3 +117,5 @@ My awesome list containing everything that's just simply awesome!
   * Ukraine government organization, the official Twitter account of the General Staff of the Armed Forces of Ukraine.
 * [KpsZSU](https://twitter.com/KpsZSU)
   * Official account of Air Force of the Armed Forces of Ukraine.
+* [Oleksii Reznikov](https://twitter.com/oleksiireznikov)
+  * Minister of Defence of Ukraine
