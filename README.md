@@ -64,6 +64,7 @@ My awesome list containing everything that's just simply awesome!
 - [ASCII utils](https://www.asciitohex.com/)
 - [VirusTotal](https://www.virustotal.com/)
 - [ChangeWindows](https://changewindows.org/timeline)
+- [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home)
 
 # Actually legit pirate websites
 - 1337x
